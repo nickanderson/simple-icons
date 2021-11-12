@@ -324,6 +324,8 @@ update the script at 'scripts/release/update-slugs-table.js'.
 | `CentOS` | `centos` |
 | `Ceph` | `ceph` |
 | `Cesium` | `cesium` |
+| `CFEngine` | `cfengine` |
+| `CFEngine Build` | `cfenginebuild` |
 | `Chai` | `chai` |
 | `Chainlink` | `chainlink` |
 | `Chakra UI` | `chakraui` |

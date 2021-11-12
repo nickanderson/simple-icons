@@ -1624,6 +1624,16 @@
             "source": "https://cesium.com/press/"
         },
         {
+            "title": "CFEngine",
+            "hex": "F5821F",
+            "source": "https://cfengine.com/"
+        },
+        {
+            "title": "CFEngine Build",
+            "hex": "052569",
+            "source": "https://build.cfengine.com/"
+        },
+        {
             "title": "Chai",
             "hex": "A30701",
             "source": "https://github.com/simple-icons/simple-icons/issues/4983#issuecomment-796736373"
